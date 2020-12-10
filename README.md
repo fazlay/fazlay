@@ -1,3 +1,42 @@
+<p align="center">
+  <h1 align="center">Hi there, I'm Fazlay Rabbi👦,</h1>
+
+<!--
+<div>
+cpp  
+
+                                I'm a 16 Y/O Web Developer 🇮🇳, Who codes in Javascript 
+
+                                    void life(void)
+                                    {
+                                      printf("Hi 👋, I'm Dipankar \n");
+                                      printf("A passionate kernel hacker from India \n");
+                                      char currentlyLearning[] = "openWRT";
+                                      char AskMeAbout[] = "Linux";
+                                      char ReachMeAt[] = "d.pal5050@gmail.com";
+                                      char FunFact[]  = "I don't have a girlfriend 😭";
+                                    }
+
+
+</div>
+!-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
