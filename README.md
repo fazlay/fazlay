@@ -1,5 +1,6 @@
 <p align="center">
-  <h1 align="center">Hi there, I'm Fazlay Rabbi👦,</h1>
+  <h1 align="center">Hi there, I'm Fazlay Rabbi👦</h1>
+
 <!--
 **fazlay/fazlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
