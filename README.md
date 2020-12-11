@@ -126,8 +126,6 @@ Here are some ideas to get you started:
 
 <br />
 
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
