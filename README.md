@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 
-
-
 </tr>
 
  <tr>
@@ -101,13 +99,13 @@ Here are some ideas to get you started:
 
 <table>
 <tbody>
+<tr>
 
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
 </td>
-</tr>
 
- <tr>
+
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
 </td>
@@ -115,6 +113,7 @@ Here are some ideas to get you started:
 <td align="center" width="33%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
 </td>
+</tr>
 
 </tbody>
 </table>
