@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-## My Skills :computer:
 
 
 - **Web Development**
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
 </td>
 
 <td align="center" width="33%">
-<img height=70px src="/wp-content/uploads/2020/09/CSS-Logo.png"> 
+<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 
 <td align="center" width="33%">
