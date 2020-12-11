@@ -80,19 +80,19 @@ Here are some ideas to get you started:
 <table>
 <tbody>
  <tr>
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg"> 
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
 </tr>
 
  <tr>
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg"> 
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </td>
 
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-ar21.svg"> 
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
 </td>
 
 </tr>
