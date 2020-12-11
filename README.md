@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I am a Javascript developer who is really passionate of its technologies  😄  😄  😄 
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/fazlay-rabbi-00569178"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:rfazlay21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br />
 
 ### Languages and Tools:
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <tbody>
 
 <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
 </td>
 </tr>
 
