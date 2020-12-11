@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-<br />
+--
 
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/fazlay-rabbi-00569178"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </table>
 
 ## Currently Learning :beginner:
-<br />
+
 
 
 
