@@ -84,9 +84,6 @@ Here are some ideas to get you started:
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
-</tr>
-
- <tr>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </td>
