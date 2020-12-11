@@ -101,6 +101,12 @@ Here are some ideas to get you started:
 
 <table>
 <tbody>
+
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
+</td>
+</tr>
+
  <tr>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
@@ -109,11 +115,6 @@ Here are some ideas to get you started:
 <td align="center" width="33%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
 </td>
-
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
-</tr>
 
 </tbody>
 </table>
@@ -125,22 +126,10 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Fazlay's GitHub Stats" src="https://github-readme-stats.fazlay.vercel.app/api?username=fazlay&show_icons=true&hide_border=true" />
 
 </details>
