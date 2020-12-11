@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="70%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
