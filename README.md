@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 
-<td align="center" width="70%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+
 
 </tr>
 
@@ -63,6 +61,10 @@ Here are some ideas to get you started:
 
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
 </tr>
