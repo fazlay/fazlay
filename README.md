@@ -130,6 +130,6 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Fazlay's GitHub Stats" src="https://github-readme-stats.fazlay.vercel.app/api?username=fazlay&show_icons=true&hide_border=true" />
+  <img align="left" alt="Fazlay's GitHub Stats" src="https://github-readme-stats.codeSTACKr.vercel.app/api?username=fazlay&show_icons=true&hide_border=true" />
 
 </details>
