@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ## I am a Javascript developer who is really passionate of its technologies  😄  😄  😄 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other open source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to travel and Build
 
 ### Connect with me:
 <br>	
