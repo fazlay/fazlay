@@ -49,14 +49,15 @@ Here are some ideas to get you started:
 </tr>
 
  <tr>
+   <td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+</td>
 
  <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
+
 
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
@@ -76,13 +77,8 @@ Here are some ideas to get you started:
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-</td>
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
+
 
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
