@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I am a Javascript developer who is really passionate of its technologies  😄  😄  😄 
 
 - 👯 I’m looking to collaborate with other open source projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and Build
 
 ### Connect with me:
