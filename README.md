@@ -89,14 +89,14 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
-- **Data Science**
+- **Backend Technologies**
 
 <table>
 <tbody>
 <tr>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> 
 </td>
 
 
